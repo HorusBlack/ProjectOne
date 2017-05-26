@@ -9,14 +9,14 @@ Para separar un poco el footer de los datos de abajo
 
 .footer {
   padding: 20px 0;
-
 }
-
 
 html {
   position: relative;
   min-height: 100%;
 }
+
+
 /*
 Es para el margen inferior del footer
 */
